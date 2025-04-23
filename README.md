@@ -2,5 +2,5 @@
   Nihao 👋
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sagaremn" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=sagarEmn" />
 </p>
